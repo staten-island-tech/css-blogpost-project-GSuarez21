@@ -1,5 +1,12 @@
 body {
-  background-color: grey;
+  background-color: #7b1fa2;
   color: white;
   font-size: ;
+}
+.head {
+  margin-top: 50px;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  background-color: #e1bee7;
+  width: ;
 }
