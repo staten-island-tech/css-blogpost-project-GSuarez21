@@ -4,9 +4,14 @@ body {
   font-size: ;
 }
 .head {
-  margin-top: 50px;
-  text-align: center;
-  font-family: "Raleway", sans-serif;
   background-color: #e1bee7;
-  width: ;
+  color: #212121;
+  font-family: "Raleway", sans-serif;
+  margin-top: 50px;
+  margin-left: 850px;
+  margin-right: 850px;
+  border-radius: 20px;
+  font-size: 80;
+  padding: 20px;
+  display: inline-block;
 }
