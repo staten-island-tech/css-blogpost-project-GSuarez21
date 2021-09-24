@@ -16,9 +16,22 @@ body {
 }
 .block {
   border: 5px solid #536dfe;
-  margin-left: 850px;
+  background-color: #bdbdbd;
+  border-radius: 10px;
+  margin-left: 775px;
+  margin-bottom: 50px;
+  display: inline-block;
+  padding-left: 70px;
+  padding-right: 80px;
 }
-.Hpost {
-  top: 20%;
-  left: 50%;
+.blockpost {
+  font-size: 40;
+  transform: translate(4%, 10%);
+}
+.image {
+  border: 2px solid white;
+  transform: translate(15%, 0%);
+}
+.blockDesc {
+  transform: translate(15%, 10%);
 }
