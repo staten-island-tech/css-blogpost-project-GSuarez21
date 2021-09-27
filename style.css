@@ -36,5 +36,9 @@ body {
   transform: translate(15%, 10%);
 }
 .blockLink {
-  transform: translate(35%, 10%);
+  background-color: #536dfe;
+  text-align: center;
+  border-radius: 10%;
+  margin-right: 60%;
+  transform: translate(10%, 50%);
 }
